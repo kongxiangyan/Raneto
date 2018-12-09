@@ -1,3 +1,6 @@
+
+已部署，转存当前版本以备不时之需。
+
 Raneto [![](https://travis-ci.org/gilbitron/Raneto.svg?branch=master)](https://travis-ci.org/gilbitron/Raneto)
 ======
 
