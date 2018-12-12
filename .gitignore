@@ -31,3 +31,10 @@ themes/default/public/lib/
 .DS_Store
 
 .idea
+
+.vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
